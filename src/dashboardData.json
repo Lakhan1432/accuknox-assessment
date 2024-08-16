@@ -1,0 +1,36 @@
+{
+    "categories": {
+      "CSPM Executive Dashboard": [
+        {
+          "id": 1,
+          "name": "Cloud Accounts",
+          "text": ""
+        },
+        {
+          "id": 2,
+          "name": "Cloud Account Risk Assessment",
+          "text": ""
+        }
+      ],
+      "CWPP Dashboard": [
+        {
+          "id": 3,
+          "name": "Widget 3",
+          "text": "Random text for Widget 3"
+        },
+        {
+          "id": 4,
+          "name": "Widget 4",
+          "text": "Random text for Widget 4"
+        }
+      ],
+      "Other Category": [
+        {
+          "id": 3,
+          "name": "Widget 3",
+          "text": "Random text for Widget 3"
+        }
+      ]
+    }
+  }
+  
